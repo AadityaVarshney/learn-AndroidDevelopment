@@ -31,5 +31,6 @@ Here you will find all the useful resources for Android Development learning. ho
 ----
 
 >by [Developer.Android](https://developer.android.com/training/basics/firstapp/index.html)
+
 >by [Tutorials Point](https://www.tutorialspoint.com/android/)
 
