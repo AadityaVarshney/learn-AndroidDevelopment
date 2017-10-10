@@ -18,6 +18,8 @@ Here you will find all the useful resources for Android Development learning. ho
 
 >by [Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
+>by [Udemy](https://www.udemy.com/complete-android-n-developer-course/learn/v4/overview)
+
 ----
 
 ##Books
